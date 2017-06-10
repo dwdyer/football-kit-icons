@@ -1,18 +1,24 @@
 ## Plain
 
-| Blue | Gold | Green | Maroon | Navy | Orange | Pink | Purple |
+| Blue | Gold | Green | Lime | Maroon | Navy | Orange | Pink |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_blue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_gold.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_green.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_maroon.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_navy.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_orange.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_pink.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_purple.svg" width="50" /> |
+| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_blue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_gold.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_green.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_lime.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_maroon.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_navy.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_orange.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_pink.svg" width="50" /> |
 
-| Red | Sky | White | Yellow |
-| --- | --- | --- | --- |
-| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_red.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_skyblue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_white.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_yellow.svg" width="50" /> |
+| Purple | Red | Sky | White | Yellow |
+| --- | --- | --- | --- | ---|
+| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_purple.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_red.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_skyblue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_white.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/plain_yellow.svg" width="50" /> |
 
 ## Band
 
-| Gold<br/>Maroon | Red<br/>White | White<br/>Red |
-| --- | --- | --- |
-| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/band_gold_maroon.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/band_red_white.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/band_white_red.svg" width="50" /> |
+| Blue<br/>White<br/>Red | Gold<br/>Maroon | Red<br/>White | White<br/>Red | White<br/>Red<br/>Blue |
+| --- | --- | --- | --- | --- |
+| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/band_blue_white_red.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/band_gold_maroon.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/band_red_white.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/band_white_red.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/band_white_red_blue.svg" width="50" /> |
+
+## Chevron
+
+| Navy<br/>White |
+| --- |
+| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/chevron_navy_white.svg" width="50" /> |
 
 ## Diagonal
 
@@ -50,9 +56,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_blue_black.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_gold_black.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_gold_maroon.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_green_black.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_red_black.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_red_blue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_red_navy.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_black.svg" width="50" /> |
 
-| White<br/>Blue | White<br/>Green | White<br/>Navy | White<br/>Red | Yellow<br/>Blue |
-| --- | --- | --- | --- | --- |
-| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_blue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_green.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_navy.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_red.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_yellow_blue.svg" width="50" /> |
+| White<br/>Blue | White<br/>Green | White<br/>Navy | White<br/>Red | White<br/>Sky | Yellow<br/>Blue | Yellow<br/>Red |
+| --- | --- | --- | --- | --- | --- | --- |
+| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_blue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_green.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_navy.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_red.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_skyblue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_yellow_blue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_yellow_red.svg" width="50" /> |
 
 ## Vertical
 
