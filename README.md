@@ -60,6 +60,13 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_black.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_blue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_green.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_navy.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_red.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_white_skyblue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_yellow_blue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/stripes_yellow_red.svg" width="50" /> |
 
+## Thirds
+
+| Red<br/>White |
+| --- |
+| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/thirds_red_white.svg" width="50" /> |
+
+
 ## Vertical
 
 | Red<br/>Black |
