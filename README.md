@@ -44,6 +44,12 @@
 | --- | --- |
 | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/quarters_white_blue.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/quarters_navy_skyblue.svg" width="50" /> |
 
+## Sash
+
+| White<br/>Red |
+| --- |
+| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/sash_white_red.svg" width="50" /> |
+
 ## Sleeves
 
 | Blue<br/>Navy | Blue<br/>White | Green<br/>White | Maroon<br/>Sky | Navy<br/>Maroon | Red<br/>White | White<br/>Black | Yellow<br/>Blue
