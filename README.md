@@ -17,7 +17,7 @@
 ## Chevron
 
 | Blue<br/>White | Navy<br/>White | Red<br/>White | Sky<br/>Maroon | White<br/>Red |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/chevron_blue_white.svg" width="50" />| <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/chevron_navy_white.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/chevron_red_white.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/chevron_skyblue_maroon.svg" width="50" /> | <img src="https://cdn.rawgit.com/dwdyer/football-kit-icons/master/shirts/chevron_white_red.svg" width="50" /> |
 
 ## Diagonal
